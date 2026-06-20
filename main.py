@@ -1,8 +1,0 @@
-print("Hello World!", 7, 10)
-print(5)
-print("Bye")
-print(17*13)
-print("Hey I'm a good boy\nand this viewer is also a boy/girl")
-print("Hey I'm a \"good boy\"\nand this viewer is also a good boy/girl!")
-print("Hey", 6, 7, sep="~", end="009\n")
-print("Kuchupu")
